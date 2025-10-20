@@ -1,0 +1,5 @@
+{
+  "name": "Road Hazard Detection & Real-Time Alerts",
+  "description": "A dashboard that displays real-time road hazards detected from dashcam videos. It features an interactive map, a filterable list of recent hazards, and simulated real-time alerts, all while prioritizing privacy by assuming faces and license plates are blurred by the backend AI service.",
+  "requestFramePermissions": []
+}
